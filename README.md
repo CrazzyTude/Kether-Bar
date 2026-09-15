@@ -19,10 +19,6 @@
 
 <!-- Add screenshots here -->
 
-| Desktop | Media Popup |
-|---------|-------------|
-| Screenshot | Screenshot |
-
 ---
 
 # Features
@@ -141,6 +137,10 @@ Examples include:
 ---
 
 # Screenshots
+
+| Desktop | Media Popup |
+|---------|-------------|
+| **Quick Launch Popup** | **Calendar Popup** |
 
 <img width="1917" height="32" alt="image" src="https://github.com/user-attachments/assets/9372e298-c85a-4277-8828-d283b089db92" />
 <img width="530" height="247" alt="image" src="https://github.com/user-attachments/assets/0879d363-ceb7-4caf-add2-d15e00d8b84a" />
