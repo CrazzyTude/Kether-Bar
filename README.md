@@ -121,7 +121,7 @@ Examples include:
 - Clock
 - Media
 - Microphone
-- Quick Launch
+- Quick Launch (ALT+SPACE)
 
 ---
 
