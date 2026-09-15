@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍎 KetherBar
+#  KetherBar
 
 ### A premium glass YASB theme inspired by macOS, crafted for a clean Windows experience.
 
@@ -47,8 +47,7 @@
 - Windows 11 (23H2 / 24H2 Recommended)
 - Latest YASB
 - SF Pro Rounded Font
-- Nerd Font (optional)
-- WeatherAPI Key
+- Nerd Font
 
 ---
 
@@ -92,20 +91,6 @@ Either
 or
 
 - Restart the application.
-
----
-
-# Recommended Companion Apps
-
-KetherBar looks best when paired with:
-
-- Windhawk
-- Windows 11 Taskbar Styler
-- Windows 11 Start Menu Styler
-- WindowsGlass
-- Explorer Styler
-- Resource Redirect
-- Zen Browser
 
 ---
 
@@ -163,8 +148,6 @@ Coming Soon
 Huge thanks to
 
 - YASB
-- Windhawk
-- WeatherAPI
 - Microsoft Fluent Icons
 - Apple (Design Inspiration)
 
